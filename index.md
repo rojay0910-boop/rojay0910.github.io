@@ -1,11 +1,11 @@
-# Hi, I'm rojay0910-boop 👋
+# Hi, I'm rojay0910-boop
 こんにちは、rojay0910-boop です 
 
 Welcome to my data analytics portfolio.
 私のデータ分析ポートフォリオへようこそ。
 
 ---
-## 👩‍💻 About Me（自己紹介）
+## About Me（自己紹介）
 - Aspiring **Data Analyst / Data Scientist**  
   データアナリスト／データサイエンティストを目指しています。  
 - Currently learning **Python, Pandas, SQL, data visualization**  
