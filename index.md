@@ -15,14 +15,6 @@ Welcome to my data analytics portfolio.
 
 ---
 ## Projects（プロジェクト）
-- **Bitcoin Price Analysis** – Time series, volatility, and comparison with S&P 500  
-- **Hotel Booking Cancellations** – Exploratory data analysis and revenue impact  
-- **A/B Testing Practice** – Funnel analysis and hypothesis testing  
-- Bitcoin Price Analysis – ビットコインの価格を時系列で分析し、ボラティリティや S&P 500 との比較を行ったプロジェクト
-- Hotel Booking Cancellations – ホテル予約のキャンセルについて探索的データ分析を行い、売上への影響を評価したプロジェクト
-- A/B Testing Practice – ファネル分析と仮説検定を用いた A/B テストの実践プロジェクト
-
-## Projects（プロジェクト）
 
 ### 1. Bitcoin Price Analysis  
 **Time series, volatility, and comparison with S&P 500**  
