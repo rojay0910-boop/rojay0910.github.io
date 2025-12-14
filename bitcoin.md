@@ -42,4 +42,4 @@ It is not suitable as a stability-focused investment.
 
 ## 🔗 Project Links
 Notebook: *(Add link here)*  
-🗂 Repo: *(Add link here)*  
+Repo: *(Add link here)*  
