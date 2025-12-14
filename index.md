@@ -19,7 +19,6 @@ Welcome to my data analytics portfolio.
 ### 1. Bitcoin Price Analysis  
 **Time series, volatility, and comparison with S&P 500**  
 ビットコインと S&P500 を比較して、価格推移とボラティリティを分析したプロジェクト。  
-### Bitcoin Price Analysis  
 [View Project](bitcoin)
 
 ---
