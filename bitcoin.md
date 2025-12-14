@@ -41,5 +41,6 @@ It is not suitable as a stability-focused investment.
 ---
 
 ## 🔗 Project Links
-Notebook: *(Add link here)*  
+Notebook: ## 🔗 Notebook
+[Open the Jupyter Notebook](./bitcoin_analysis.ipynb)  
 Repo: *(Add link here)*  
