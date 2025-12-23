@@ -16,25 +16,17 @@ Welcome to my data analytics portfolio.
 ---
 ## Projects（プロジェクト）
 
-### 1. Bitcoin Price Analysis  
+### 1. GitHub Open Source Activity Analysis (BigQuery + SQL)
+Analyze the public github_repos dataset in Google BigQuery using SQL to demonstrate practical analytics skills (joins, aggregations, window functions) on large-scale real-world data.
+Google BigQuery の公開データセット（GitHub Activity / github_repos）を使用し、
+SQL による探索的データ分析と指標の設計・作成を行い、JOIN・集計・ウィンドウ関数などの分析スキルを示す。
+
+### 2. Bitcoin Price Analysis  
 **Time series, volatility, and comparison with S&P 500**  
 ビットコインと S&P500 を比較して、価格推移とボラティリティを分析したプロジェクト。  
 [View Project](bitcoin)
 
 ---
-
-### 2. Hotel Booking Cancellations  
-**Exploratory data analysis and revenue impact**  
-ホテル予約データを使って、キャンセル率と売上への影響を調べた分析。  
-Coming soon_
-
----
-
-### 3. A/B Testing Practice  
-**Funnel analysis and hypothesis testing**  
-Webサイトやアプリの A/B テストを想定して、ファネル分析と仮説検定を行うプロジェクト。  
-Coming soon_
-
 More projects coming soon!
 今後もさらに多くのプロジェクトを追加していく予定です！
 
