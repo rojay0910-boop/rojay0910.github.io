@@ -17,7 +17,7 @@ Welcome to my data analytics portfolio.
 ## Projects（プロジェクト）
 
 ### 1. GitHub Open Source Activity Analysis (BigQuery + SQL)
-**Analyze the public github_repos dataset in Google BigQuery using SQL to demonstrate practical analytics skills (joins, aggregations, window functions) on large-scale real-world data.**
+**Analyze the public github_repos dataset in Google BigQuery using SQL to demonstrate practical analytics skills (joins, aggregations, window functions) on large-scale real-world data.**   
 Google BigQuery の公開データセット（GitHub Activity / github_repos）を使用し、
 SQL による探索的データ分析と指標の設計・作成を行い、JOIN・集計・ウィンドウ関数などの分析スキルを示す。
 
