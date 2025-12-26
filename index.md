@@ -18,6 +18,7 @@
 **Analyze the public github_repos dataset in Google BigQuery using SQL to demonstrate practical analytics skills (joins, aggregations, window functions) on large-scale real-world data.**   
 Google BigQuery の公開データセット（GitHub Activity data / github_repos）を使用し、
 SQL による探索的データ分析と指標の設計・作成を行い、JOIN・集計・ウィンドウ関数などの分析スキルを示す。
+[View Project](https://github.com/rojay0910-boop/github-sql-portfolio)
 
 ### 2. Bitcoin Price Analysis  
 **Time series, volatility, and comparison with S&P 500**  
@@ -31,7 +32,7 @@ More projects coming soon!
 ### Learning Journey（学習中の内容）
 - I’m continuously learning through materials such as Codecademy, covering 
 **Python Fundamentals, Data Wrangling, Hypothesis Testing, Data Visualization, and SQL.**
-- Using real-world datasets, I’m steadily expanding the number of analyses I can showcase in my portfolio.
+- Using real-world datasets, I’m steadily expanding the number of analyses I can showcase in my portfolio.  
 ###  
 - Codecademy などの教材で、  
   **Python Fundamentals / Data Wrangling / Hypothesis Testing / Data Visualization / SQL** を継続的に学習中。  
