@@ -2,7 +2,7 @@
 ### Welcome to my data analytics portfolio.  
 
 ---
-## About Me（自己紹介）
+### About Me（自己紹介）
 - Aspiring **Data Analyst / Data Scientist**   
 - Currently learning **Python, Pandas, SQL, data visualization**  
 - Building projects with **Jupyter Notebook & GitHub**  
@@ -12,7 +12,7 @@
 - Jupyter Notebook と GitHub を使って、分析プロジェクトを作成しています。  
 
 ---
-## Projects（プロジェクト）
+### Projects（プロジェクト）
 
 ### 1. GitHub Open Source Activity Analysis (BigQuery + SQL)
 **Analyze the public github_repos dataset in Google BigQuery using SQL to demonstrate practical analytics skills (joins, aggregations, window functions) on large-scale real-world data.**   
@@ -22,13 +22,13 @@ SQL による探索的データ分析と指標の設計・作成を行い、JOIN
 ### 2. Bitcoin Price Analysis  
 **Time series, volatility, and comparison with S&P 500**  
 ビットコインと S&P500 を比較して、価格推移とボラティリティを分析したプロジェクト。  
-[View Project](bitcoin)
+[View Project](bitcoin)  
 
----
 More projects coming soon!
 今後もさらに多くのプロジェクトを追加していく予定です！
 
-## Learning Journey（学習中の内容）
+---
+### Learning Journey（学習中の内容）
 - I’m continuously learning through materials such as Codecademy, covering 
 **Python Fundamentals, Data Acquisition, Data Wrangling, Hypothesis Testing, and Data Visualization.**
 - Using real-world datasets, I’m steadily expanding the number of analyses I can showcase in my portfolio.
@@ -39,7 +39,7 @@ More projects coming soon!
 
 ---
 
-## Contact
+### Contact
 
 - GitHub: [@rojay0910-boop](https://github.com/rojay0910-boop)
 
