@@ -1,12 +1,12 @@
 # Hi, I'm rojay0910-boop
-Welcome to my data analytics portfolio.  
+## Welcome to my data analytics portfolio.  
 
 ---
 ## About Me（自己紹介）
 - Aspiring **Data Analyst / Data Scientist**   
 - Currently learning **Python, Pandas, SQL, data visualization**  
 - Building projects with **Jupyter Notebook & GitHub**  
-  
+###    
 - データアナリスト／データサイエンティストを目指しています。  
 - Python・Pandas・SQL・データ可視化を勉強中。  
 - Jupyter Notebook と GitHub を使って、分析プロジェクトを作成しています。  
