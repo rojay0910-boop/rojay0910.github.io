@@ -1,5 +1,5 @@
-# Hi, I'm rojay0910-boop
-## Welcome to my data analytics portfolio.  
+### Hi, I'm rojay0910-boop
+### Welcome to my data analytics portfolio.  
 
 ---
 ## About Me（自己紹介）
@@ -29,7 +29,10 @@ More projects coming soon!
 今後もさらに多くのプロジェクトを追加していく予定です！
 
 ## Learning Journey（学習中の内容）
-
+- I’m continuously learning through materials such as Codecademy, covering 
+**Python Fundamentals, Data Acquisition, Data Wrangling, Hypothesis Testing, and Data Visualization.**
+- Using real-world datasets, I’m steadily expanding the number of analyses I can showcase in my portfolio.
+###  
 - Codecademy などの教材で、  
   **Python Fundamentals / Data Acquisition / Data Wrangling / Hypothesis Testing / Data Visualization** を継続的に学習中。  
 - 実際のデータセットを使って、ポートフォリオに載せられる分析を増やしていきます。
