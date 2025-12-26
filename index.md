@@ -18,7 +18,7 @@
 **Analyze the public github_repos dataset in Google BigQuery using SQL to demonstrate practical analytics skills (joins, aggregations, window functions) on large-scale real-world data.**   
 Google BigQuery の公開データセット（GitHub Activity data / github_repos）を使用し、
 SQL による探索的データ分析と指標の設計・作成を行い、JOIN・集計・ウィンドウ関数などの分析スキルを示す。
-[View Project](sql)
+[View Project](github_sql)
 ### 2. Bitcoin Price Analysis  
 **Time series, volatility, and comparison with S&P 500**  
 ビットコインと S&P500 を比較して、価格推移とボラティリティを分析したプロジェクト。  
