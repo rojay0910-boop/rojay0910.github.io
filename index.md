@@ -20,10 +20,9 @@ Google BigQuery の公開データセット（GitHub Activity data / github_repo
 SQL による探索的データ分析と指標の設計・作成を行い、JOIN・集計・ウィンドウ関数などの分析スキルを示す。
 [View Project](https://github.com/rojay0910-boop/github-sql-portfolio)
 
-### 2. Bitcoin Price Analysis  
-**Time series, volatility, and comparison with S&P 500**  
-ビットコインと S&P500 を比較して、価格推移とボラティリティを分析したプロジェクト。  
-[View Project](bitcoin)  
+### 2. Mapping Semiconductor Process Nodes and Supply Chain Evolution Using Public Sources  
+ 
+[View Project]()  
 
 More projects coming soon!
 今後もさらに多くのプロジェクトを追加していく予定です！
