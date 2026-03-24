@@ -33,7 +33,7 @@ More projects coming soon!
 ### Learning Journey（学習中の内容）
 I’m currently learning Python, SQL, data analysis, and data visualization through platforms such as Codecademy, and applying these skills to real-world datasets.
 In addition, I am studying Quality Control and Reliability Engineering, including Statistical Process Control (SPC), Acceptance Sampling, probability distributions (Normal, Lognormal, Weibull, Exponential), probability plotting, and basic life data analysis.
-My goal is to apply statistical analysis and data analysis techniques to manufacturing, quality, and reliability-related data in the future.
+My goal is to apply statistical analysis and data analysis techniques to manufacturing, quality, and reliability-related data in the future.   
 ###  
 Codecademy などの教材を通じて、Python、SQL、データ分析、データ可視化を学習し、実データを用いた分析プロジェクトに取り組んでいます。
 また、品質管理および信頼性工学についても学習しており、統計的工程管理（SPC）、抜取検査、確率分布、Probability Plot、寿命データ解析などを勉強しています。
