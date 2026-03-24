@@ -31,13 +31,13 @@ More projects coming soon!
 
 ---
 ### Learning Journey（学習中の内容）
-- I’m continuously learning through materials such as Codecademy, covering 
-**Python Fundamentals, Data Wrangling, Hypothesis Testing, Data Visualization, and SQL.**
-- Using real-world datasets, I’m steadily expanding the number of analyses I can showcase in my portfolio.  
+I’m currently learning Python, SQL, data analysis, and data visualization through platforms such as Codecademy, and applying these skills to real-world datasets.
+In addition, I am studying Quality Control and Reliability Engineering, including Statistical Process Control (SPC), Acceptance Sampling, probability distributions (Normal, Lognormal, Weibull, Exponential), probability plotting, and basic life data analysis.
+My goal is to apply statistical analysis and data analysis techniques to manufacturing, quality, and reliability-related data in the future.
 ###  
-- Codecademy などの教材で、  
-  **Python Fundamentals / Data Wrangling / Hypothesis Testing / Data Visualization / SQL** を継続的に学習中。  
-- 実際のデータセットを使って、ポートフォリオに載せられる分析を増やしていきます。
+Codecademy などの教材を通じて、Python、SQL、データ分析、データ可視化を学習し、実データを用いた分析プロジェクトに取り組んでいます。
+また、品質管理および信頼性工学についても学習しており、統計的工程管理（SPC）、抜取検査、確率分布、Probability Plot、寿命データ解析などを勉強しています。
+将来的には、製造業や半導体分野における品質・信頼性・製造データ分析にデータ分析技術を応用することを目標としています。
 
 ---
 
