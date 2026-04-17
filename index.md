@@ -30,7 +30,11 @@ SQL による探索的データ分析と指標の設計・作成を行い、JOIN
 ファウンドリーレベルの技術タイムラインを通じて、名目的なプロセスノード表記ではなく、アーキテクチャ上の転換点に焦点を当てながら、先端半導体プロセスノードの進化を分析する。  
 [View Project](https://github.com/rojay0910-boop/foundry-process-inflection)  
   
-  
+
+### 3. Fab-Process-Data-Analysis-Pathlib-Version
+[View Project](https://github.com/rojay0910-boop/Fab-Process-Data-Analysis-Pathlib-Version)
+
+
 More projects coming soon!  
 
 Planned future projects include:  
